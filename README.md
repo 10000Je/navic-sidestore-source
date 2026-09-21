@@ -18,7 +18,7 @@ Navic의 공식 GitHub Release를 추적해 `source.json`을 자동으로 갱신
 4. 아래 주소에서 `YOUR_GITHUB_USERNAME`과 `YOUR_REPOSITORY`를 실제 값으로 바꿉니다.
 
    ```text
-   https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_REPOSITORY/main/source.json
+   https://raw.githubusercontent.com/10000Je/navic-sidestore-source/main/source.json
    ```
 
 5. 완성된 URL을 SideStore 또는 AltStore의 소스 주소로 추가합니다.
